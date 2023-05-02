@@ -1,7 +1,14 @@
 {
   "id": "drc-remover",
-  "timestamp": 1680505776.0,
+  "timestamp": 1681301368.0,
   "versions": [
+    {
+      "timestamp": 1681301368.0,
+      "version": "v1.2.0",
+      "versionCode": 1200,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/drc-remover/v1.2.0_1200.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1680505776.0,
       "version": "v1.1.0",

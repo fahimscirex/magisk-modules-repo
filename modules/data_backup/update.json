@@ -1,7 +1,14 @@
 {
   "id": "data_backup",
-  "timestamp": 1678623076.0,
+  "timestamp": 1682179587.0,
   "versions": [
+    {
+      "timestamp": 1682179587.0,
+      "version": "v2.13",
+      "versionCode": 6,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/data_backup/v2.13_6.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/data_backup/v2.13_6.md"
+    },
     {
       "timestamp": 1678623076.0,
       "version": "v2.11",
