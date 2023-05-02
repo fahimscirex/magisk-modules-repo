@@ -1,0 +1,13 @@
+{
+  "id": "YAKT",
+  "timestamp": 1679349492.0,
+  "versions": [
+    {
+      "timestamp": 1679349492.0,
+      "version": "v7",
+      "versionCode": 1,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/YAKT/v7_1.zip",
+      "changelog": ""
+    }
+  ]
+}

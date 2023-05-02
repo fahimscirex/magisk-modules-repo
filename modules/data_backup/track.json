@@ -1,0 +1,9 @@
+{
+  "id": "data_backup",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git",
+  "license": "MIT",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/changelog.md",
+  "added": 1680541883.465463,
+  "last_update": 1678623076.0,
+  "versions": 1
+}

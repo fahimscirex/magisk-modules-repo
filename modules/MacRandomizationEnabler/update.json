@@ -1,0 +1,13 @@
+{
+  "id": "MacRandomizationEnabler",
+  "timestamp": 1598109398.0,
+  "versions": [
+    {
+      "timestamp": 1598109398.0,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MacRandomizationEnabler/v1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

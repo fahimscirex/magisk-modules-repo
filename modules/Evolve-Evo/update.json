@@ -1,0 +1,13 @@
+{
+  "id": "Evolve-Evo",
+  "timestamp": 1672571250.0,
+  "versions": [
+    {
+      "timestamp": 1672571250.0,
+      "version": "0.0.2",
+      "versionCode": 13,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Evolve-Evo/0.0.2_13.zip",
+      "changelog": ""
+    }
+  ]
+}

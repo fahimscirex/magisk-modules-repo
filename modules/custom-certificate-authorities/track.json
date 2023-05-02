@@ -1,0 +1,9 @@
+{
+  "id": "custom-certificate-authorities",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
+  "license": "GPL-3.0",
+  "changelog": "",
+  "added": 1680541876.963847,
+  "last_update": 1644751003.0,
+  "versions": 1
+}

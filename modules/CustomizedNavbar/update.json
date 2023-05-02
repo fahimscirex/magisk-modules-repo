@@ -1,0 +1,13 @@
+{
+  "id": "CustomizedNavbar",
+  "timestamp": 1680734245.0,
+  "versions": [
+    {
+      "timestamp": 1680734245.0,
+      "version": "3.2",
+      "versionCode": 5,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/CustomizedNavbar/3.2_5.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/CustomizedNavbar/3.2_5.md"
+    }
+  ]
+}

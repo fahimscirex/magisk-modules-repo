@@ -1,0 +1,13 @@
+{
+  "id": "oneplus-9-9pro-camera-unlocker",
+  "timestamp": 1677499548.0,
+  "versions": [
+    {
+      "timestamp": 1677499548.0,
+      "version": "v1.2",
+      "versionCode": 1200,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.md"
+    }
+  ]
+}

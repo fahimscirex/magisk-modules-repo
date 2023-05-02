@@ -1,0 +1,13 @@
+{
+  "id": "microg_installer",
+  "timestamp": 1675354588.0,
+  "versions": [
+    {
+      "timestamp": 1675354588.0,
+      "version": "Revived 3.2.0-0",
+      "versionCode": 30200,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.2.0-0_30200.zip",
+      "changelog": ""
+    }
+  ]
+}

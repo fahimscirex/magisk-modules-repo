@@ -1,0 +1,9 @@
+{
+  "id": "microg_installer",
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/update.json",
+  "license": "GPL-3.0",
+  "changelog": "",
+  "added": 1680541955.313628,
+  "last_update": 1675354588.0,
+  "versions": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "AdGuardDNS4Magisk-IPv6",
+  "timestamp": 1678892176.0,
+  "versions": [
+    {
+      "timestamp": 1678892176.0,
+      "version": "v2.7f",
+      "versionCode": 27,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/AdGuardDNS4Magisk-IPv6/v2.7f_27.zip",
+      "changelog": ""
+    }
+  ]
+}

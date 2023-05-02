@@ -1,0 +1,13 @@
+{
+  "id": "MagiskHide",
+  "timestamp": 1677950994.0,
+  "versions": [
+    {
+      "timestamp": 1677950994.0,
+      "version": "1.10.3",
+      "versionCode": 16,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MagiskHide/1.10.3_16.zip",
+      "changelog": ""
+    }
+  ]
+}

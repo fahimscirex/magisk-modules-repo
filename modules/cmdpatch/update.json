@@ -1,0 +1,13 @@
+{
+  "id": "cmdpatch",
+  "timestamp": 1598574218.0,
+  "versions": [
+    {
+      "timestamp": 1598574218.0,
+      "version": "v1.0",
+      "versionCode": 1,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/cmdpatch/v1.0_1.zip",
+      "changelog": ""
+    }
+  ]
+}

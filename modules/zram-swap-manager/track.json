@@ -1,0 +1,7 @@
+{
+  "id": "zram-swap-manager",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager.git",
+  "license": "GPL-3.0",
+  "changelog": "",
+  "added": 1680542034.715106
+}

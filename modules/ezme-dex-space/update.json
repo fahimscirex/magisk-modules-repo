@@ -1,0 +1,13 @@
+{
+  "id": "ezme-dex-space",
+  "timestamp": 1662814335.0,
+  "versions": [
+    {
+      "timestamp": 1662814335.0,
+      "version": "v1",
+      "versionCode": 1000,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ezme-dex-space/v1_1000.zip",
+      "changelog": ""
+    }
+  ]
+}

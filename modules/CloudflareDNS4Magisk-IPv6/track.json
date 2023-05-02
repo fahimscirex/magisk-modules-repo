@@ -1,0 +1,9 @@
+{
+  "id": "CloudflareDNS4Magisk-IPv6",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git",
+  "license": "LGPL-3.0",
+  "changelog": "",
+  "added": 1680541870.970941,
+  "last_update": 1673388915.0,
+  "versions": 1
+}

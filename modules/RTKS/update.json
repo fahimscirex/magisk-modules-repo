@@ -1,0 +1,13 @@
+{
+  "id": "RTKS",
+  "timestamp": 1669914042.0,
+  "versions": [
+    {
+      "timestamp": 1669914042.0,
+      "version": "v4.6.6",
+      "versionCode": 466,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/RTKS/v4.6.6_466.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/RTKS/v4.6.6_466.md"
+    }
+  ]
+}

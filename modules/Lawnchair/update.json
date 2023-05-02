@@ -1,0 +1,13 @@
+{
+  "id": "Lawnchair",
+  "timestamp": 1652979626.0,
+  "versions": [
+    {
+      "timestamp": 1652979626.0,
+      "version": "v12.1.0.Alpha.3",
+      "versionCode": 29,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Lawnchair/v12.1.0.Alpha.3_29.zip",
+      "changelog": ""
+    }
+  ]
+}

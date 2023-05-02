@@ -1,0 +1,9 @@
+{
+  "id": "backup",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
+  "license": "GPL-3.0",
+  "changelog": "",
+  "added": 1680541851.002999,
+  "last_update": 1599015487.0,
+  "versions": 1
+}

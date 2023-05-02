@@ -1,0 +1,13 @@
+{
+  "id": "magisk_proc_monitor",
+  "timestamp": 1674918971.0,
+  "versions": [
+    {
+      "timestamp": 1674918971.0,
+      "version": "2.2",
+      "versionCode": 9,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_proc_monitor/2.2_9.zip",
+      "changelog": ""
+    }
+  ]
+}

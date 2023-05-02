@@ -1,0 +1,9 @@
+{
+  "id": "systemui-bootloop",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git",
+  "license": "GPL-3.0",
+  "changelog": "",
+  "added": 1680542007.476409,
+  "last_update": 1643775613.0,
+  "versions": 1
+}

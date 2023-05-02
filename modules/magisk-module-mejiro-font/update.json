@@ -1,0 +1,13 @@
+{
+  "id": "magisk-module-mejiro-font",
+  "timestamp": 1677543320.0,
+  "versions": [
+    {
+      "timestamp": 1677543320.0,
+      "version": "v19",
+      "versionCode": 19,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-mejiro-font/v19_19.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-mejiro-font/v19_19.md"
+    }
+  ]
+}

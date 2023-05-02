@@ -1,0 +1,13 @@
+{
+  "id": "acc",
+  "timestamp": 1654345622.0,
+  "versions": [
+    {
+      "timestamp": 1654345622.0,
+      "version": "v2022.6.4",
+      "versionCode": 202206040,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.md"
+    }
+  ]
+}

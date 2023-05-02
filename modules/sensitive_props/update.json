@@ -1,0 +1,13 @@
+{
+  "id": "sensitive_props",
+  "timestamp": 1678093152.0,
+  "versions": [
+    {
+      "timestamp": 1678093152.0,
+      "version": "v3",
+      "versionCode": 3,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/sensitive_props/v3_3.zip",
+      "changelog": ""
+    }
+  ]
+}

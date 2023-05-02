@@ -1,0 +1,13 @@
+{
+  "id": "magisk-module-koruri-font",
+  "timestamp": 1677543460.0,
+  "versions": [
+    {
+      "timestamp": 1677543460.0,
+      "version": "v25",
+      "versionCode": 25,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-koruri-font/v25_25.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-koruri-font/v25_25.md"
+    }
+  ]
+}
