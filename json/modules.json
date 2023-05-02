@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1683024039.470122,
+  "timestamp": 1683037347.121179,
   "modules": [
     {
       "id": "AFWall-Boot-AntiLeak",
@@ -271,7 +271,7 @@
       "author": "@CrazybytesVE",
       "description": "Este m\u00f3dulo modifica los valores m\u00ednimos de \"Luz Nocturna\" para que sean menos c\u00e1lidos (menos amarillentos). .",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Luz-Nocturna_Modded/v1.0_1.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/Luz-Nocturna_Modded/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -362,7 +362,7 @@
       "author": "CrazyBytesVE",
       "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
         "changelog": ""
       }
     },
@@ -440,7 +440,7 @@
       "author": "@CrazybytesVE",
       "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/QS_Rectangulares/v1.0_1.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/QS_Rectangulares/v1.0_1.zip",
         "changelog": ""
       }
     },
