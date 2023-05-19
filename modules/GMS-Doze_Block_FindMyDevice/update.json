@@ -1,7 +1,14 @@
 {
   "id": "GMS-Doze_Block_FindMyDevice",
-  "timestamp": 1659620310.0,
+  "timestamp": 1683468277.0,
   "versions": [
+    {
+      "timestamp": 1683468277.0,
+      "version": "v1.4B",
+      "versionCode": 141,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/GMS-Doze_Block_FindMyDevice/v1.4B_141.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1659620310.0,
       "version": "v1.3B",

@@ -1,7 +1,14 @@
 {
   "id": "SystemlessDebloater",
-  "timestamp": 1680779309.0,
+  "timestamp": 1683123396.0,
   "versions": [
+    {
+      "timestamp": 1683123396.0,
+      "version": "1.5.3",
+      "versionCode": 153,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/SystemlessDebloater/1.5.3_153.zip",
+      "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/SystemlessDebloater/1.5.3_153.md"
+    },
     {
       "timestamp": 1680779309.0,
       "version": "1.5.2",

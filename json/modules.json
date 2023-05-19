@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Repo",
-  "timestamp": 1683092003.708213,
+  "timestamp": 1684511996.16899,
   "modules": [
     {
       "id": "AFWall-Boot-AntiLeak",
@@ -174,26 +174,26 @@
     {
       "id": "GMS-Doze_Block_FindMyDevice",
       "license": "GPL-2.0",
-      "version": "v1.3B",
-      "versionCode": 131,
+      "version": "v1.4B",
+      "versionCode": 141,
       "name": "GMS Doze (Bloquea \"Find My Device\")",
       "author": "CrazybytesVE",
       "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versi\u00f3n bloquea 'Find My Device' de Google.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.3B_131.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/GMS-Doze_Block_FindMyDevice/v1.4B_141.zip",
         "changelog": ""
       }
     },
     {
       "id": "GMSDoze",
       "license": "GPL-2.0",
-      "version": "v1.3A",
-      "versionCode": 130,
+      "version": "v1.4A",
+      "versionCode": 140,
       "name": "GMS Doze",
       "author": "CrazybytesVE",
       "description": "Aplica Doze a los Google Play Services (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.3A_130.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/GMSDoze/v1.4A_140.zip",
         "changelog": ""
       }
     },
@@ -473,14 +473,14 @@
     {
       "id": "SystemlessDebloater",
       "license": "LGPL-2.1",
-      "version": "1.5.2",
-      "versionCode": 152,
+      "version": "1.5.3",
+      "versionCode": 153,
       "name": "Systemless Debloater",
       "author": "zgfg @ xda",
       "description": "Select and debloat preinstalled system apps. Supported up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.2_152.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.2_152.md"
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/SystemlessDebloater/1.5.3_153.zip",
+        "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/SystemlessDebloater/1.5.3_153.md"
       }
     },
     {
@@ -681,13 +681,13 @@
     {
       "id": "drc-remover",
       "license": "AGPL-3.0",
-      "version": "v1.2.0",
-      "versionCode": 1200,
+      "version": "v1.2.1",
+      "versionCode": 1201,
       "name": "DRC remover",
       "author": "zyhk",
       "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/drc-remover/v1.2.0_1200.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/drc-remover/v1.2.1_1201.zip",
         "changelog": ""
       }
     },

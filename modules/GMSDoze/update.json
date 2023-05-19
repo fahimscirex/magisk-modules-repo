@@ -1,7 +1,14 @@
 {
   "id": "GMSDoze",
-  "timestamp": 1659560395.0,
+  "timestamp": 1683468066.0,
   "versions": [
+    {
+      "timestamp": 1683468066.0,
+      "version": "v1.4A",
+      "versionCode": 140,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/GMSDoze/v1.4A_140.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1659560395.0,
       "version": "v1.3A",
