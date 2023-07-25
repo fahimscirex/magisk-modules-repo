@@ -1,7 +1,14 @@
 {
   "id": "data_backup",
-  "timestamp": 1682179587.0,
+  "timestamp": 1686425610.0,
   "versions": [
+    {
+      "timestamp": 1686425610.0,
+      "version": "v2.14",
+      "versionCode": 7,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/data_backup/v2.14_7.zip",
+      "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/data_backup/v2.14_7.md"
+    },
     {
       "timestamp": 1682179587.0,
       "version": "v2.13",

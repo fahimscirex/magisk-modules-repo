@@ -1,7 +1,14 @@
 {
   "id": "audio-misc-settings",
-  "timestamp": 1681301259.0,
+  "timestamp": 1688751967.0,
   "versions": [
+    {
+      "timestamp": 1688751967.0,
+      "version": "v1.3.3",
+      "versionCode": 1303,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/audio-misc-settings/v1.3.3_1303.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1681301259.0,
       "version": "v1.3.0",

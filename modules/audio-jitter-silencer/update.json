@@ -1,7 +1,14 @@
 {
   "id": "audio-jitter-silencer",
-  "timestamp": 1681206641.0,
+  "timestamp": 1687682273.0,
   "versions": [
+    {
+      "timestamp": 1687682273.0,
+      "version": "v1.0.4",
+      "versionCode": 1004,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/audio-jitter-silencer/v1.0.4_1004.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1681206641.0,
       "version": "v1.0.2",

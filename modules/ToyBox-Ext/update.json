@@ -1,7 +1,14 @@
 {
   "id": "ToyBox-Ext",
-  "timestamp": 1678041567.0,
+  "timestamp": 1686000966.0,
   "versions": [
+    {
+      "timestamp": 1686000966.0,
+      "version": "1.0.8",
+      "versionCode": 108,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/ToyBox-Ext/1.0.8_108.zip",
+      "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/ToyBox-Ext/1.0.8_108.md"
+    },
     {
       "timestamp": 1678041567.0,
       "version": "1.0.6",

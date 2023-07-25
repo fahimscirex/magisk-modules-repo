@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Repo",
-  "timestamp": 1684511996.16899,
+  "timestamp": 1690293871.231048,
   "modules": [
     {
       "id": "AFWall-Boot-AntiLeak",
@@ -57,14 +57,14 @@
     {
       "id": "BuiltIn-BusyBox",
       "license": "GPL-2.0",
-      "version": "1.0.4",
-      "versionCode": 104,
-      "name": "BuiltIn BusyBox",
+      "version": "1.0.6",
+      "versionCode": 106,
+      "name": "Magisk built-in BusyBox",
       "author": "zgfg @ xda",
-      "description": "Systemless BusyBox installed by the Magisk built-in busybox binary",
+      "description": "Systemless BusyBox installed by and symlinked to the Magisk built-in busybox binary",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/BuiltIn-BusyBox/1.0.4_104.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/BuiltIn-BusyBox/1.0.4_104.md"
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/BuiltIn-BusyBox/1.0.6_106.zip",
+        "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/BuiltIn-BusyBox/1.0.6_106.md"
       }
     },
     {
@@ -272,7 +272,7 @@
       "description": "Este m\u00f3dulo modifica los valores m\u00ednimos de \"Luz Nocturna\" para que sean menos c\u00e1lidos (menos amarillentos). .",
       "states": {
         "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/Luz-Nocturna_Modded/v1.0_1.zip",
-        "changelog": ""
+        "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/Luz-Nocturna_Modded/v1.0_1.md"
       }
     },
     {
@@ -363,7 +363,7 @@
       "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
       "states": {
         "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
-        "changelog": ""
+        "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/NavBar_Resize_MIUI/v2.0_2.md"
       }
     },
     {
@@ -441,7 +441,7 @@
       "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
       "states": {
         "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/QS_Rectangulares/v1.0_1.zip",
-        "changelog": ""
+        "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/QS_Rectangulares/v1.0_1.md"
       }
     },
     {
@@ -486,14 +486,14 @@
     {
       "id": "ToyBox-Ext",
       "license": "0BSD",
-      "version": "1.0.6",
-      "versionCode": 106,
+      "version": "1.0.8",
+      "versionCode": 108,
       "name": "ToyBox (Ext)",
       "author": "zgfg @ xda",
       "description": "Install (additional) toybox applets. SUPPORTED: ARMv7 and higher ",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ToyBox-Ext/1.0.6_106.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ToyBox-Ext/1.0.6_106.md"
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/ToyBox-Ext/1.0.8_108.zip",
+        "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/ToyBox-Ext/1.0.8_108.md"
       }
     },
     {
@@ -512,39 +512,39 @@
     {
       "id": "acc",
       "license": "GPL-3.0",
-      "version": "v2022.6.4",
-      "versionCode": 202206040,
+      "version": "v2023.6.26",
+      "versionCode": 202306260,
       "name": "Advanced Charging Controller (ACC)",
       "author": "VR25",
       "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.md"
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/acc/v2023.6.26_202306260.zip",
+        "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/acc/v2023.6.26_202306260.md"
       }
     },
     {
       "id": "audio-jitter-silencer",
       "license": "AGPL-3.0",
-      "version": "v1.0.2",
-      "versionCode": 1002,
+      "version": "v1.0.4",
+      "versionCode": 1004,
       "name": "Audio jitter silencer",
       "author": "zyhk",
       "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.2_1002.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/audio-jitter-silencer/v1.0.4_1004.zip",
         "changelog": ""
       }
     },
     {
       "id": "audio-misc-settings",
       "license": "AGPL-3.0",
-      "version": "v1.3.0",
-      "versionCode": 1300,
+      "version": "v1.3.3",
+      "versionCode": 1303,
       "name": "Audio misc. settings",
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.0_1300.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/audio-misc-settings/v1.3.3_1303.zip",
         "changelog": ""
       }
     },
@@ -642,14 +642,14 @@
     {
       "id": "data_backup",
       "license": "MIT",
-      "version": "v2.13",
-      "versionCode": 6,
+      "version": "v2.14",
+      "versionCode": 7,
       "name": "Data backup creator",
       "author": "ziand",
       "description": "Data backup creator for restoring by data_restore.zip from or Magisk module installer or TWRP",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/data_backup/v2.13_6.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/data_backup/v2.13_6.md"
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/data_backup/v2.14_7.zip",
+        "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/data_backup/v2.14_7.md"
       }
     },
     {
@@ -850,39 +850,39 @@
     {
       "id": "microg_installer",
       "license": "GPL-3.0",
-      "version": "Revived 3.3.1-0",
-      "versionCode": 30310,
+      "version": "Revived 3.3.2-0",
+      "versionCode": 30320,
       "name": "microG Installer Revived",
       "author": "nift4",
       "description": "Install microG GmsCore, GsfProxy, FakeStore (or Play Store if you want so) and MapsV1 to /system/",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.3.1-0_30310.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/microg_installer/Revived_3.3.2-0_30320.zip",
         "changelog": ""
       }
     },
     {
       "id": "mkshrc",
       "license": "GPL-3.0",
-      "version": "1.3.4",
-      "versionCode": 134,
+      "version": "1.3.5",
+      "versionCode": 135,
       "name": "Systemless Mkshrc",
       "author": "Der_Googler",
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.4_134.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/mkshrc/1.3.5_135.zip",
         "changelog": ""
       }
     },
     {
       "id": "node",
       "license": "MIT",
-      "version": "1.4.8",
-      "versionCode": 148,
+      "version": "1.4.9",
+      "versionCode": 149,
       "name": "Systemless Node.js",
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node/1.4.8_148.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/node/1.4.9_149.zip",
         "changelog": ""
       }
     },
@@ -1097,13 +1097,13 @@
     {
       "id": "usb-samplerate-unlocker",
       "license": "AGPL-3.0",
-      "version": "v1.5.0",
-      "versionCode": 1500,
+      "version": "v1.5.1",
+      "versionCode": 1501,
       "name": "USB Samplerate Unlocker",
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
+        "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
         "changelog": ""
       }
     },

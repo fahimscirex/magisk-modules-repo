@@ -1,7 +1,14 @@
 {
   "id": "microg_installer",
-  "timestamp": 1682528480.0,
+  "timestamp": 1685780590.0,
   "versions": [
+    {
+      "timestamp": 1685780590.0,
+      "version": "Revived 3.3.2-0",
+      "versionCode": 30320,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/microg_installer/Revived_3.3.2-0_30320.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1682528480.0,
       "version": "Revived 3.3.1-0",

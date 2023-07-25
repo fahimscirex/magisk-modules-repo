@@ -1,7 +1,14 @@
 {
   "id": "mkshrc",
-  "timestamp": 1678722144.0,
+  "timestamp": 1685709020.0,
   "versions": [
+    {
+      "timestamp": 1685709020.0,
+      "version": "1.3.5",
+      "versionCode": 135,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/mkshrc/1.3.5_135.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1678722144.0,
       "version": "1.3.4",

@@ -1,7 +1,14 @@
 {
   "id": "usb-samplerate-unlocker",
-  "timestamp": 1681301324.0,
+  "timestamp": 1688632550.0,
   "versions": [
+    {
+      "timestamp": 1688632550.0,
+      "version": "v1.5.1",
+      "versionCode": 1501,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1681301324.0,
       "version": "v1.5.0",

@@ -1,7 +1,14 @@
 {
   "id": "node",
-  "timestamp": 1678722333.0,
+  "timestamp": 1689164467.0,
   "versions": [
+    {
+      "timestamp": 1689164467.0,
+      "version": "1.4.9",
+      "versionCode": 149,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/node/1.4.9_149.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1678722333.0,
       "version": "1.4.8",

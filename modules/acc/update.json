@@ -1,7 +1,14 @@
 {
   "id": "acc",
-  "timestamp": 1654345622.0,
+  "timestamp": 1687760775.0,
   "versions": [
+    {
+      "timestamp": 1687760775.0,
+      "version": "v2023.6.26",
+      "versionCode": 202306260,
+      "zipUrl": "https://fahimscirex.github.io/magisk-module-mrepo/modules/acc/v2023.6.26_202306260.zip",
+      "changelog": "https://fahimscirex.github.io/magisk-module-mrepo/modules/acc/v2023.6.26_202306260.md"
+    },
     {
       "timestamp": 1654345622.0,
       "version": "v2022.6.4",
